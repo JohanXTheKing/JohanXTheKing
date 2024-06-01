@@ -42,6 +42,6 @@
   <a href="johanxxxtheking@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   </a>
-  <a href="(https://www.instagram.com/giio_joo_xtx/)" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
+  <a href="https://www.instagram.com/giio_joo_xtx/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;"/>
   </a>
