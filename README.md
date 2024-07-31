@@ -7,7 +7,7 @@
 <h2>👨🏻‍💻&nbsp;About Me</h2>
 
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/JohanXTheKing](https://www.frontendmentor.io/profile/JohanXTheKing)
-- 📫 How to reach me **sickoyovani333gmail.com**
+- 📫 How to reach me **sickoyovanizu333gmail.com**
 - :credit_card: My full name is **Giovanni Johan Z-U** <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 - :school: I'm currently 2do year student at **Web-Developer - Platzy-Academy**
 - :books: My major is **Software Engineering**
