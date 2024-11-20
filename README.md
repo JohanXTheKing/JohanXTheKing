@@ -17,8 +17,6 @@
 - :sunglasses: My quote is ***"Never too late to be happy"*** 
 - :ok_hand: Fun fact::point_right: Depression And Obsecion it's my favorite song 👈:
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200px" align="right"/>
-
 <h2>🛠&nbsp;Tech Stack</h2>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
